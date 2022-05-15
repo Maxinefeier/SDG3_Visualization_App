@@ -3,7 +3,7 @@
 
 # In[1]:
 
-$pip install -U scikit-learn
+
 import sklearn
 import streamlit as st
 from sklearn import datasets
